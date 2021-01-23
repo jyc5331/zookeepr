@@ -38,6 +38,7 @@ function filterByQuery(query, animalsArray) {
   }
   return filteredResults;
 }
+
 //goes through the array and returns a single specified instance
 function findById(id, animalsArray) {
   const result = animalsArray.filter((animal) => animal.id === id)[0];
