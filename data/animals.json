@@ -115,6 +115,24 @@
       "diet": "omnivore",
       "personalityTraits": "hungry",
       "id": "11"
+    },
+    {
+      "name": "Larry",
+      "species": "Lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Larry",
+      "species": "Lemur",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
